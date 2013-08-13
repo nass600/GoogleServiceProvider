@@ -1,7 +1,7 @@
 {
-    "name": "nass600/googleplus-service-provider",
-    "description": "Silex ServiceProvider for GooglePlus API",
-    "keywords": ["silex", "service-provider", "google plus"],
+    "name": "nass600/google-service-provider",
+    "description": "Silex ServiceProvider for Google API",
+    "keywords": ["silex", "service-provider", "google"],
     "license": "MIT",
     "authors": [
         {
