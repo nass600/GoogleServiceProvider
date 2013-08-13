@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Nass600": "src"
+            "Nass600\\Silex\\Provider": "src"
         }
     },
     "minimum-stability": "dev"
